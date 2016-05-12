@@ -2,7 +2,7 @@
 
 **A method to calculate phred-value to quality value**
 
-[where to use](http://ryuzheng.github.io/Python-learning/Biology/phred2quality/)
+[DEMO](http://ryuzheng.github.io/phred2quality/)
 
 - swith types of different phred-values
 - could handle a string of text, output a string of quality values
